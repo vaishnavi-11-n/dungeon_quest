@@ -1,0 +1,20 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local game saves and scores
+dungeon_quest_save.json
+dungeon_quest_scores.json
